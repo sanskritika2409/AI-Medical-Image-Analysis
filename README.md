@@ -54,11 +54,8 @@ data/
     ├── test/
     ## 📸 Project Outputs
 
-### 🔹 Training Output
-[Training](images/training_output.png)
+![Training](images/training_output.png)
 
-### 🔹 Prediction Result
-[Prediction](images/prediction_output.png)
+![Prediction](images/prediction_output.png)
 
-### 🔹 Accuracy Graph
-[Accuracy](images/accuracy.png)
+![Accuracy](images/accuracy.png)
