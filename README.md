@@ -54,8 +54,8 @@ data/
     ├── test/
   ## 📸 Project Outputs
 
-![Training](./images/training_output.png)
+![Training](https://raw.githubusercontent.com/sanskritika2409/AI-Medical-Image-Analysis/master/images/training_output.png)
 
-![Prediction](./images/prediction_output.png)
+![Prediction](https://raw.githubusercontent.com/sanskritika2409/AI-Medical-Image-Analysis/master/images/prediction_output.png)
 
-![Accuracy](./images/accuracy.png)
+![Accuracy](https://raw.githubusercontent.com/sanskritika2409/AI-Medical-Image-Analysis/master/images/accuracy.png)
