@@ -58,8 +58,8 @@ data/
 
 ![Prediction](images/prediction_output.png)
 
-<<<<<<< HEAD
+
 ![Accuracy](images/accuracy.png)
-=======
+
 ![Accuracy](images/accuracy.png)
->>>>>>> ebc74e8a73a9ea2c1846523c8bee5e2d0c311188
+
